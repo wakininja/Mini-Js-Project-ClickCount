@@ -8,3 +8,7 @@
 #box:hover{
     box-shadow: 0px 0px 30px gray;
 }
+h6{
+    font-size: medium;
+    text-align: center;
+}
